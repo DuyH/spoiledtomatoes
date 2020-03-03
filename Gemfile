@@ -16,7 +16,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'devise', '~> 4.1', '>= 4.1.1'
-gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'paperclip', '~> 5.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'searchkick', '~> 0.8.3'
 gem 'haml-rails', '~> 0.9.0'
